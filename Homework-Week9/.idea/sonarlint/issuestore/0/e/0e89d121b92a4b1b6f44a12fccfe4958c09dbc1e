@@ -1,0 +1,12 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Èøù¥ÿÿÿÿÿ8ÀÜ‚ü»1
+‡
+java:S4165"jRemove this useless assignment; "maximumSpeed" already holds the assigned value along all execution paths.(ú÷çç8ÊÜ‚ü»1
+‹
+java:S4165"nRemove this useless assignment; "distanceTraveled" already holds the assigned value along all execution paths.(±Òô‹8ÉÜ‚ü»1
+W
+java:S1161":Add the "@Override" annotation above this method signature(Ñëã‘8ÒÜ‚ü»1
+L
+java:S1656"/Remove or correct this useless self-assignment.(ú÷çç8ÔÜ‚ü»1
+L
+java:S1656"/Remove or correct this useless self-assignment.(±Òô‹8ÕÜ‚ü»1

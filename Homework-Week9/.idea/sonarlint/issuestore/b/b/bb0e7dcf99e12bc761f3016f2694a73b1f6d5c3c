@@ -1,0 +1,28 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Èøù¥ÿÿÿÿÿ8Áöü»1
+‡
+java:S4165"jRemove this useless assignment; "maximumSpeed" already holds the assigned value along all execution paths.(ú÷çç8±Áöü»1
+‹
+java:S4165"nRemove this useless assignment; "distanceTraveled" already holds the assigned value along all execution paths.(±Òô‹8±Áöü»1
+[
+java:S1854-">Remove this useless assignment to local variable "motorcycle".( ±×8ÀÁöü»1
+G	java:S106$"+Replace this use of System.out by a logger.(¾Üô8ÀÁöü»1
+L	java:S106%"+Replace this use of System.out by a logger.(Ù”Â‚ıÿÿÿÿ8ÀÁöü»1
+L	java:S106&"+Replace this use of System.out by a logger.(İà¿¨şÿÿÿÿ8ÀÁöü»1
+L	java:S106'"+Replace this use of System.out by a logger.(ÅÿŞÒüÿÿÿÿ8ÀÁöü»1
+L	java:S106("+Replace this use of System.out by a logger.(Ã¤–¥úÿÿÿÿ8ÀÁöü»1
+G	java:S106)"+Replace this use of System.out by a logger.(î«š„8ÀÁöü»1
+L	java:S106*"+Replace this use of System.out by a logger.(Ÿ¬‡ëüÿÿÿÿ8ÀÁöü»1
+L
+java:S1481-"/Remove this unused "motorcycle" local variable.( ±×8ÀÁöü»1
+G	java:S106."+Replace this use of System.out by a logger.(¾Üô8ÏÁöü»1
+L	java:S106/"+Replace this use of System.out by a logger.(Ù”Â‚ıÿÿÿÿ8ÏÁöü»1
+L	java:S1060"+Replace this use of System.out by a logger.(İà¿¨şÿÿÿÿ8ĞÁöü»1
+L	java:S1061"+Replace this use of System.out by a logger.(ÅÿŞÒüÿÿÿÿ8ÑÁöü»1
+L	java:S1062"+Replace this use of System.out by a logger.(Ã¤–¥úÿÿÿÿ8ÑÁöü»1
+G	java:S1063"+Replace this use of System.out by a logger.(î«š„8ÑÁöü»1
+L	java:S1064"+Replace this use of System.out by a logger.(Ÿ¬‡ëüÿÿÿÿ8ÑÁöü»1
+L
+java:S1656"/Remove or correct this useless self-assignment.(ú÷çç8ÑÁöü»1
+L
+java:S1656"/Remove or correct this useless self-assignment.(±Òô‹8ÑÁöü»1

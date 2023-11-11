@@ -1,0 +1,18 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¤÷á8šìÅ²»1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ‡Àğüÿÿÿÿ8šìÅ²»1
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¯Š 8šìÅ²»1
+m	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÖÒö8šìÅ²»1
+r	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öª¶öüÿÿÿÿ8šìÅ²»1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Èøù¥ÿÿÿÿÿ8šìÅ²»1
+s	java:S116"WRename this field "Company_Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ò‡8šìÅ²»1
+p	java:S116"URename this field "Model_Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À‚öE8šìÅ²»1
+p	java:S116"ORename this field "Year" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öæ·”ùÿÿÿÿ8šìÅ²»1
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”‡¡8šìÅ²»1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¤÷á8šìÅ²»1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ï¾É8šìÅ²»1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ‡Àğüÿÿÿÿ8šìÅ²»1
+L	java:S1064"+Replace this use of System.out by a logger.(Á€ëêıÿÿÿÿ8šìÅ²»1
+L	java:S1065"+Replace this use of System.out by a logger.(ÏüÑÒÿÿÿÿÿ8šìÅ²»1
+L	java:S1066"+Replace this use of System.out by a logger.(¼éİÑüÿÿÿÿ8šìÅ²»1
+L	java:S1067"+Replace this use of System.out by a logger.(Éˆîşÿÿÿÿÿ8šìÅ²»1
