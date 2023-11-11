@@ -1,14 +1,18 @@
+/* Write a Java program to create a base class BankAccount with methods deposit() and
+withdraw(). Create two subclasses SavingsAccount and CheckingAccount. Override the
+withdraw() method in each subclass to impose different withdrawal limits and fees.*/
+
 package Inheritance;
 
 public class Bankaccount10 {
 
-    private String accountnumber;
     private double balance;
 
-    public Bankaccount10(double initialBalance) {
+    public Bankaccount10(double initialbalance) {
 
-        this.balance = initialBalance;
+        this.balance = initialbalance;
     }
+
 
     public double getBalance() {
         return balance;
